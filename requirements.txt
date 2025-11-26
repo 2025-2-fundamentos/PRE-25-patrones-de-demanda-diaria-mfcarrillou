@@ -1,4 +1,5 @@
 pytest
+ipykernel
 pandas
 scikit-learn
 matplotlib
